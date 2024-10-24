@@ -918,7 +918,7 @@ table td:nth-child(3) {
     width: auto;
     
     height: 100vh;
-    display: none;
+    display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
